@@ -1,4 +1,4 @@
-What this script basically does is that when you die it will randomly call the ambulance (50% chance) and notify them about your position.
+What this script basically does is that when you die it will randomly call the ambulance and notify them about your position.
 
 [ESX] This script was made for ESX
 
